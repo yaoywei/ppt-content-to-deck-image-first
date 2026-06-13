@@ -24,6 +24,17 @@ FILE_MAPPING = {
     "openai_gpt-image-2-medium_20260613_103436_7380dbf6.png": "p02-company-overview.png",
     "openai_gpt-image-2-medium_20260613_103544_e3d9b786.png": "p03-mission-positioning.png",
     "openai_gpt-image-2-medium_20260613_103730_6c77473a.png": "p04-qualifications.png",
+    "openai_gpt-image-2-medium_20260613_104505_d76a438f.png": "p05-business-overview.png",
+    "openai_gpt-image-2-medium_20260613_104558_ec23d5eb.png": "p06-facade-cleaning.png",
+    "openai_gpt-image-2-medium_20260613_104705_17e9dabc.png": "p07-municipal-inspection.png",
+    "openai_gpt-image-2-medium_20260613_104835_ab75845a.png": "p08-drug-eradication.png",
+    "openai_gpt-image-2-medium_20260613_105126_11e98eed.png": "p09-power-inspection.png",
+    "openai_gpt-image-2-medium_20260613_105222_11dc7075.png": "p10-petrochemical-inspection.png",
+    "openai_gpt-image-2-medium_20260613_105322_8792e128.png": "p11-international-business.png",
+    "openai_gpt-image-2-medium_20260613_105428_7763113a.png": "p12-training-program.png",
+    "openai_gpt-image-2-medium_20260613_105554_454734dd.png": "p13-core-team.png",
+    "openai_gpt-image-2-medium_20260613_105658_0d6c9f1d.png": "p14-history-timeline.png",
+    "openai_gpt-image-2-medium_20260613_105800_5e556d04.png": "p15-contact-us.png",
 }
 
 # 目标画布 16:9 (Pitfall 11 推荐)
